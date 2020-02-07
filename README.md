@@ -1,5 +1,10 @@
 # ASRock-Z390-Phantom-ITX-Clover-Hackintosh
 
+# 停止更新全面转移OpenCore
+
+[z390OpenCore](https://github.com/fangf2018/ASRock-Z390-Phantom-ITX-OpenCore-Hackintosh)
+
+
 # 更新日志
 
 2019-10-3
