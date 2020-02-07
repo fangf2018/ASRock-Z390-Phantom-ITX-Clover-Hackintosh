@@ -2,7 +2,7 @@
 
 # 停止更新全面转移OpenCore
 
-[z390OpenCore](https://github.com/fangf2018/ASRock-Z390-Phantom-ITX-OpenCore-Hackintosh)
+## [转移链接z390OpenCore](https://github.com/fangf2018/ASRock-Z390-Phantom-ITX-OpenCore-Hackintosh)
 
 
 # 更新日志
